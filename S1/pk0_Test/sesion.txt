@@ -1,0 +1,7 @@
+var edad = 12
+edad
+console.log(edad)
+typeof(edad)
+typeof("Hola")
+edad="Hola"
+typeof(edad)

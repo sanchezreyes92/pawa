@@ -1,0 +1,11 @@
+estudiante={
+nombre:"Ivan",
+apellido1:"Ruiz",
+apellido2:"Trejo",
+imprimirNombre:function(){
+  console.log(this.nombre+
+    " "+this.apellido1+
+    " "+this.apellido2);
+  }
+};
+estudiante.imprimirNombre()

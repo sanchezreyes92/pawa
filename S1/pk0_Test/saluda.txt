@@ -1,0 +1,10 @@
+//Tipos de funciones en
+//javascript
+//Function declaration
+function saluda(name){
+	console.log("Hola " + name);
+}
+//function Expressions
+var despide=function(name){
+	console.log("Adios "+ name);
+}
